@@ -1,0 +1,5 @@
+# path of the stemming folder.
+stemmingPath = /home/shaofengm/MyPro/Preprocessing/nlpfiles/stemming
+
+# path of the stoplist folder
+stoplistPath = /home/shaofengm/MyPro/Preprocessing/nlpfiles/stoplist
