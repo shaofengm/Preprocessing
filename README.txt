@@ -1,5 +1,5 @@
 #BETA TESTING...
-
+To use the library, download all the files and follow the instructions below. You may want to follow "2. case study" to try how to run it on a sample dataset.
 1. how to run preprocessing
 (1) go to config/config.txt, change the two paths;
 (2) cd to Preprocessing folder(where you can ls and see Preprocess.java in it), compile the java code with this command:
